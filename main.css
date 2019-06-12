@@ -1,0 +1,27 @@
+ p {
+    background: blue;
+    font-size: 24px;
+    margin: auto;
+    text-align:center
+}
+
+.container {
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 960px;
+  }
+
+  .logo {
+    text-align:center;
+  }
+  
+  h1 {
+    text-align:center;
+  }
+  body {
+    background-color: lightblue;
+  }
+  .Search {
+    text-align:center
+  }
